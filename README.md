@@ -1,9 +1,9 @@
 # Experiences
 
-![Experiences](https://github.com/WeirdJack/Experiences/blob/master/client/public/images/Home%20Page.png | width=100)
-![Experiences](https://github.com/WeirdJack/Experiences/blob/master/client/public/images/Login%20Page.png | width=100)
-![Experiences](https://github.com/WeirdJack/Experiences/blob/master/client/public/images/SignUp%20Page.png | width=100)
-![Experiences](https://github.com/WeirdJack/Experiences/blob/master/client/public/images/User%20Profile%20Page.png | width=100)
+<img src="https://github.com/WeirdJack/Experiences/blob/master/client/public/images/Home%20Page.png" width="100">
+<img src="https://github.com/WeirdJack/Experiences/blob/master/client/public/images/Login%20Page.png" width="100">
+<img src="https://github.com/WeirdJack/Experiences/blob/master/client/public/images/SignUp%20Page.png" width="100">
+<img src="https://github.com/WeirdJack/Experiences/blob/master/client/public/images/User%20Profile%20Page.png" width="100">
 
 ## Introduction
 
